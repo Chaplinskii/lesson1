@@ -1,0 +1,15 @@
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/bin/Debug/net8.0/Task2
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/bin/Debug/net8.0/Task2.deps.json
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/bin/Debug/net8.0/Task2.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/bin/Debug/net8.0/Task2.pdb
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/Task2.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/refint/Task2.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/Task2.pdb
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/Task2/obj/Debug/net8.0/ref/Task2.dll
