@@ -1,0 +1,15 @@
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/bin/Debug/net8.0/dz
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/bin/Debug/net8.0/dz.deps.json
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/bin/Debug/net8.0/dz.runtimeconfig.json
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/bin/Debug/net8.0/dz.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/bin/Debug/net8.0/dz.pdb
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/dz.GeneratedMSBuildEditorConfig.editorconfig
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/dz.AssemblyInfoInputs.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/dz.AssemblyInfo.cs
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/dz.csproj.CoreCompileInputs.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/dz.sourcelink.json
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/dz.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/refint/dz.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/dz.pdb
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/dz.genruntimeconfig.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/dz/obj/Debug/net8.0/ref/dz.dll
