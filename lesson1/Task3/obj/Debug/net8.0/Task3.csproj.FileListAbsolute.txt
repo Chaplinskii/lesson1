@@ -1,0 +1,15 @@
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/Task3.sourcelink.json
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/bin/Debug/net8.0/Task3
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/bin/Debug/net8.0/Task3.deps.json
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/bin/Debug/net8.0/Task3.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/bin/Debug/net8.0/Task3.pdb
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/Task3.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/refint/Task3.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/Task3.pdb
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/home/hacoc/geekbrains/01_csharp/lesson1/Task3/obj/Debug/net8.0/ref/Task3.dll
