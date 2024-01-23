@@ -12,3 +12,4 @@
 /home/hacoc/geekbrains/01_csharp/lesson1/Task1/obj/Debug/net8.0/Task1.pdb
 /home/hacoc/geekbrains/01_csharp/lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
 /home/hacoc/geekbrains/01_csharp/lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
+/home/hacoc/geekbrains/01_csharp/lesson1/Task1/obj/Debug/net8.0/Task1.sourcelink.json
