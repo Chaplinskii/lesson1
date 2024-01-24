@@ -3,7 +3,7 @@ int b = 71;
 int c = 84;
 int d = 37;
 
-long result = (a * b) / (c + d);
+long result1 = (a * b);
+double result2 = (c + d);
+double result = result1/result2;
 Console.WriteLine(result);
-double result2 = (a * b) / (c + d);
-Console.WriteLine(result2);
