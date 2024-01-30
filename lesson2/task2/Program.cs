@@ -26,13 +26,26 @@
 // }
 
 // Задача 2
-int[] arr = new int[10] { 2, -5, 4, 7, 8, 35, 1, 3, -8, 5 };
-int i = 0;
-while (i < arr.Length)
-{
-    if (arr[i] % 2 == 0)
-    {
-        Console.Write($"{arr[i]} ");
+// int[] arr = new int[10] { 2, -5, 4, 7, 8, 35, 1, 3, -8, 5 };
+// int i = 0;
+// while (i < arr.Length)
+// {
+//     if (arr[i] % 2 == 0)
+//     {
+//         Console.Write($"{arr[i]} ");
+//     }
+//     i=i+1;
+// }
+
+// Задача 3 (гири)
+int n=5;
+int []array={9,-4,7,3,2};
+int i =0;
+int max=array[0];
+while (i<n){
+    if (array[i]>max){
+        max=array[i];
     }
     i=i+1;
 }
+Console.Write(max);
