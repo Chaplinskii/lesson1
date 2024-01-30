@@ -7,7 +7,7 @@
 // a = 256 => 26
 // a = 891 => 81
 
-using System.Diagnostics.Contracts;
+// using System.Diagnostics.Contracts;
 
 // Console.Clear();
 // Console.Write("Введите 3-х значное число: ");
@@ -68,14 +68,14 @@ using System.Diagnostics.Contracts;
 // 7812 => 8
 // 91 => Третьей цифры нет
 
-Console.Clear();
-Console.Write("Введите число: ");
-int n = int.Parse(Console.ReadLine()!);
-n = Math.Abs(n);
-if (n < 100)
-    Console.WriteLine("Третьей цифры нет");
-else{
-    int x = n % 1000;
-    // 45291 : 1000 = 45 (ост. 291)
-    Console.WriteLine(x / 100);
-}
+// Console.Clear();
+// Console.Write("Введите число: ");
+// int n = int.Parse(Console.ReadLine()!);
+// n = Math.Abs(n);
+// if (n < 100)
+//     Console.WriteLine("Третьей цифры нет");
+// else{
+//     int x = n % 1000;
+//     // 45291 : 1000 = 45 (ост. 291)
+//     Console.WriteLine(x / 100);
+// }
