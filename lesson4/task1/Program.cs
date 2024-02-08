@@ -91,18 +91,30 @@
 // }
 
 // Задача3
-string GetLettersString(string s)
-{
-    string letters = "";
-    foreach (char e in s)
-    {
-        if (char.IsAsciiLetter(e) == true)
-        {
-            letters = letters + e;
+// string GetLettersString(string s)
+// {
+//     string letters = "";
+//     foreach (char e in s)
+//     {
+//         if (char.IsAsciiLetter(e) == true)
+//         {
+//             letters = letters + e;
+//         }
+//     }
+//     return letters;
+// }
+// string str = Console.ReadLine()!;
+// string result = GetLettersString(str);
+// Console.WriteLine(result);
+
+Console.WriteLine("Ввведите значение: ");
+string str = Console.ReadLine();
+int GetNumbersString(string str){
+    string digit = "";
+    int[] numbers = new int [5];
+    foreach (char e in str){
+        if (char.IsAsciiDigit(e)==true){
+            
         }
     }
-    return letters;
 }
-string str = Console.ReadLine()!;
-string result = GetLettersString(str);
-Console.WriteLine(result);
